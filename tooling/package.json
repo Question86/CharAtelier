@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "electron": "44.9.0",
+    "three": "0.186.1"
+  }
+}

@@ -1,0 +1,8 @@
+Third-party components
+
+Electron and Three.js are installed separately by npm; their licenses are distributed with those packages.
+MakeHuman / MPFB character data is identified by the original project as CC0. See LICENSE-MPFB-ASSETS.md and artifacts/assets/provenance.json for input hashes and sources:
+https://github.com/makehumancommunity/mpfb2
+https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html
+
+FFmpeg is not included in this repository. If used for video export, obtain it separately and comply with the license for that build.
